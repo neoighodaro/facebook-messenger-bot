@@ -198,4 +198,4 @@ Now you should have completed the set up of your messenger bot, now head on over
 
 We have been able to create the skeleton for a Facebook messenger bot using PHP. This barely scratches the surface of what your new Messenger bot can actually do. For exercise, try to use the [wit.ai](https://wit.ai) service to create a smarter bot for your page.
 
-Have any questions or feedbacks on the article, please leave them as a comment below. You can find the source code to the article on [GitHub]().
+Have any questions or feedbacks on the article, please leave them as a comment below. You can find the source code to the article on [GitHub](https://github.com/neoighodaro/facebook-messenger-bot).
